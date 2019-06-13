@@ -1,5 +1,5 @@
 # Applied DS and ML program
-**This Repository contains hands-on educational/training material that I have developed and taught for the "Applied Data Science and Machine Learning with Python" Program**
+**This Repository contains hands-on educational/training material that I have developed and taught for the "Applied Data Science and Machine Learning with Python" Program at Emory University**
 
 # The curriculum
 * Introduction to Python, Numpy, Pandas and Data Wrangling
