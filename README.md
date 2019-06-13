@@ -1,5 +1,5 @@
-# BDA
-**This Repository contains educational material that I have created for the Applied Data Science and Machine Learning with Program**
+# Applied DS and ML program
+**This Repository contains hands-on educational/training material that I have created/developed for the Applied Data Science and Machine Learning with Python Program**
 
 # The curriculum
 * Introduction to Python, Numpy, Pandas and Data Wrangling
